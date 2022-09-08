@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+}
+
+.container h1 {
+    margin-bottom: 2%;
+}
+
+body {
+    background: linear-gradient(to right, rgb(166, 221, 255), rgb(242, 175, 255));
+}
+
+table {
+    width: 100%;
+    margin-bottom: .5em;
+    table-layout: fixed;
+    text-align: center;
+    background-color: rgb(203, 203, 203);
+}
+
+input {
+    width: 500px;
+}
+
+.container-table {
+    text-align: center;
+}
